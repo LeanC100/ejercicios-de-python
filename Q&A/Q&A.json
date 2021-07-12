@@ -1,0 +1,102 @@
+{
+    "1": {
+        "question" : "What game is the most sold ?",
+        "aswers" : [
+            "1. Minecraft", 
+            "2. GTA V",
+            "3. Tetris", 
+            "4. Super Mario Bros"
+        ],
+        "aswerCorrect": "1. Minecraft"
+    },
+    "2": {
+        "question": "Which of thoese applications isn't a social network ?",
+        "aswers": [
+            "1. Facebook", 
+            "2. Uber", 
+            "3. Tinder", 
+            "4. Instagram"
+        ],
+        "aswerCorrect": "2. Uber"
+    },
+    "3": {
+        "question": " What is HTML ?",
+        "aswers": [
+            "1. Programming Language",
+            "2. Hit Text Markup Language",
+            "3. Hyper Text Markup Language",
+            "4. Hyper Theme Markup Language"
+        ],
+        "aswerCorrect": "3. Hyper Text Markup Language"
+    },
+    "4": {
+        "question": " Which of those frameworks don't belong a JavaScript ?",
+        "aswers": [
+            "1. Vue",
+            "2. React",
+            "3. Angular",
+            "4. Django"
+        ],
+        "aswerCorrect": "4. Django"
+    },
+    "5": {
+        "question": "What is CSS ?",
+        "aswers": [
+            "1. Cascading Style Sheets",
+            "2. Cascading Style Style",
+            "3. Cascading Style Shell",
+            "4. Custom Style Sheets"
+        ],
+        "aswerCorrect": "1. Cascading Style Sheets"
+    },
+    "6": {
+        "question": "Which of those languages ​​isn't a programming language ?",
+        "aswers": [
+            "1. Java",
+            "2. Python",
+            "3. HTML",
+            "4. Rubi"
+        ],
+        "aswerCorrect": "3. HTML"
+    },
+    "7": {
+        "question": " What cryptocurrency is the most popular ?",
+        "aswers": [
+            "1. Bitcoin",
+            "2. Dogecoin",
+            "3. Tether",
+            "4. ethereum"
+        ],
+        "aswerCorrect": "1. Bitcoin"
+    },
+    "8": {
+        "question": " What is an AI ?",
+        "aswers": [
+            "1. Artificial Intelligence",
+            "2. Art Illuminated",
+            "3. Artificial Index",
+            "4. Programming Language"
+        ],
+        "aswerCorrect": "1. Artificial Intelligence"
+    },
+    "9": {
+        "question": "Which of those companies is electric cars ?",
+        "aswers": [
+            "1. Uber",
+            "2. Mercado Libre",
+            "3. Tesla",
+            "4. Rappi"
+        ],
+        "aswerCorrect": "3. Tesla"
+    },
+    "10": {
+        "question": "Which of those animals cann't be a pet ?",
+        "aswers": [
+            "1. Dog",
+            "2. Cat",
+            "3. Fish",
+            "4. Lion"
+        ],
+        "aswerCorrect": "4. Lion"
+    }
+}
